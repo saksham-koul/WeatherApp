@@ -1,4 +1,4 @@
 # WeatherApp
 An online web application that shows current weather of a location.
 
-Check it out [here.](https://online-weather-application.herokuapp.com/)
+It shall be launched very soon on Heroku or any other such cloud deployment platform.
