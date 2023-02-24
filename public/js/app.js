@@ -47,7 +47,7 @@ weatherForm.addEventListener('submit', (e) => {
                     console.log('Unit btn clicked')
                     if (flag === false) {
                         flag = true
-                        unitsButton.textContent = 'View temperature in Fahrenheits'
+                        unitsButton.textContent = 'View temperature in Fahrenheit'
                         msg2.textContent = 'Current temperature: ' + data.tempC + ' C'
                     }
                     else {
