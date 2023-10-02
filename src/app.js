@@ -37,7 +37,7 @@ app.get('/about', (req, res) => {
 app.get('/help', (req, res) => {
     res.render('help', {
         title: 'Help page',
-        desc: 'To use this API, just specify the location whose weather information you want.\n' +
+        desc: 'To use this web application, just specify the location whose weather information you want.\n' +
             '\nAdditionally, you can toggle between Celsius and Fahrenheit scales once the weather information loads.',
         name: 'Saksham Koul'
     })
